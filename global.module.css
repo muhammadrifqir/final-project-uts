@@ -1,0 +1,15 @@
+.container {
+    padding: 0 2rem;
+    color: #06D6A0;
+}
+
+.global__judul {
+    text-align: center;
+    font-size: 2.56rem;
+}
+
+.global__subtitle {
+    text-align: center;
+    font-size: 1.59rem;
+}
+
