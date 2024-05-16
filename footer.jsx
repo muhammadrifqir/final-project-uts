@@ -1,3 +1,4 @@
+import React from "react";
 import styles from "./footer.module.css";
 
 function Footer() {
@@ -6,7 +7,7 @@ function Footer() {
       <div className={styles.container}>
         <div className={styles.footer__brand}>
           <h2>Covid ID</h2>
-          <p>Developed by Naufal</p>
+          <p>Developed by M Rifqi R</p>
         </div>
         <div>
           <ul className={styles.footer__list}>
